@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jara-nov
 - 👀 I’m interested in Unity game development
-- 🌱 I’m currently learning how to get most of Scriptable objects
+- 🌱 I’m currently learning HLSL
 - 💞️ I’m looking to collaborate on 3D games
 - 📫 How to reach me? Just send me an e-mail -> jaroslavnovotny3d@email.cz
 <!---
