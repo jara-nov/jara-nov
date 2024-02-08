@@ -1,0 +1,25 @@
+{
+    "basemaps": [],
+    "layers": [
+        {
+            "itemID": "c0b29e077a994eecaac411c7005d4ae6",
+            "sublayers": [ 0, 1, 2, 3, 4, 5 ]
+        },
+        {
+            "itemID": "67dc582d1d204eb98fcce452232fc821",
+            "sublayers": [ 0, 1, 2, 3, 4 ]
+        },
+        {
+            "itemID": "6b94720b3bb74ae1bd58ca877949cd9e",
+            "sublayers": [ 0, 1, 2 ]
+        },
+        {
+            "itemID": "185c6a37c359414aaaef6424a7283a7d",
+            "sublayers": [ 0 ]
+        },
+        {
+            "itemID": "37cf0debeb214e84ae9fcc5b25cbf8c2",
+            "sublayers": [ 0, 1, 2, 3 ]
+        }
+    ]
+}
