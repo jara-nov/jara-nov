@@ -1,5 +1,9 @@
 {
-    "basemaps": [],
+    "basemaps": [
+        {"id": "f57adcc0bfff44a996cc38898f9e048f", "name": "Základní mapa"},
+        {"id": "59b6251406824446a3862884cc838936", "name": "Základní mapa černobílá"},
+        {"id": "a12caba7accb4d6288832ae7d5414f7f", "name": "Letecká mapa"}
+    ],
     "layers": [
         {
             "itemID": "c0b29e077a994eecaac411c7005d4ae6",
