@@ -17,7 +17,7 @@
         },
         {
             "name": "Hranice",
-            "config": "",
+            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/bordersConfig.json",
             "category_type":4
         },
         {
