@@ -12,7 +12,7 @@
         },
         {
             "name": "Územní plán",
-            "config": "",
+            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/territConfig.json",
             "category_type":3
         },
         {
