@@ -1,23 +1,23 @@
 {
     "categories": [
         {
-            "name": "cenova_mapa",
+            "name": "Cenová mapa",
             "config": ""
         },
         {
-            "name": "metropolitni_plan",
+            "name": "Metropolitní plán",
             "config": ""
         },
         {
-            "name": "uzemni_plan",
+            "name": "Územní plán",
             "config": ""
         },
         {
-            "name": "hranice",
+            "name": "Hranice",
             "config": ""
         },
         {
-            "name": "podkladove_mapy",
+            "name": "Podkladové mapy",
             "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json"
         }
     ]
