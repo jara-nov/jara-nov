@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "name": "cenova_mapa",
+            "config": ""
+        },
+        {
+            "name": "metropolitni_plan",
+            "config": ""
+        },
+        {
+            "name": "uzemni_plan",
+            "config": ""
+        },
+        {
+            "name": "hranice",
+            "config": ""
+        },
+        {
+            "name": "podkladove_mapy",
+            "config": ""
+        }
+    ]
+}
