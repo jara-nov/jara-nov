@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "Cenová mapa",
-            "config": "",
+            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/priceConfig.json",
             "category_type":1
         },
         {
