@@ -2,23 +2,28 @@
     "categories": [
         {
             "name": "Cenová mapa",
-            "config": ""
+            "config": "",
+            "category_type":1
         },
         {
             "name": "Metropolitní plán",
-            "config": ""
+            "config": "",
+            "category_type":2
         },
         {
             "name": "Územní plán",
-            "config": ""
+            "config": "",
+            "category_type":3
         },
         {
             "name": "Hranice",
-            "config": ""
+            "config": "",
+            "category_type":4
         },
         {
             "name": "Podkladové mapy",
-            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json"
+            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json",
+            "category_type":0
         }
     ]
 }
