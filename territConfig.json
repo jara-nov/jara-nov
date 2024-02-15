@@ -3,6 +3,9 @@
         {
             "itemID": "c0b29e077a994eecaac411c7005d4ae6",
             "sublayers": [ 0, 1, 2, 3, 4, 5 ]
-        }
+        },
+        {
+            "itemID": "67dc582d1d204eb98fcce452232fc821",
+            "sublayers": [ 0, 1, 2, 3, 4, 5, 6, 7]
     ]
 }
