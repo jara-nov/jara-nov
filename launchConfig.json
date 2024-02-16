@@ -1,5 +1,11 @@
 {
     "categories": [
+        
+        {
+            "name": "Podkladové mapy",
+            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json",
+            "category_type":0
+        },
         {
             "name": "Cenová mapa",
             "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/priceConfig.json",
@@ -19,11 +25,6 @@
             "name": "Hranice",
             "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/bordersConfig.json",
             "category_type":4
-        },
-        {
-            "name": "Podkladové mapy",
-            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json",
-            "category_type":0
         }
     ]
 }
