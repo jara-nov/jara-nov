@@ -1,6 +1,5 @@
 {
-    "categories": [
-        
+    "categories": [        
         {
             "name": "Podkladové mapy",
             "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json",
