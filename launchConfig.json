@@ -7,7 +7,7 @@
             "groups": [
                 {
                     "json_type": "Maps",
-                    "config": "https://mapa-ipr-config.loc/basemapsConfig.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/basemapsConfig.json",
                     "order": 1
                 }
             ]
@@ -19,7 +19,7 @@
             "groups": [
                 {
                     "json_type": "Layers",
-                    "config": "https://mapa-ipr-config.loc/priceConfig.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/priceConfig.json",
                     "order": 2
                 }
             ]
@@ -37,12 +37,12 @@
             "groups": [
                 {
                     "json_type": "Maps",
-                    "config": "https://mapa-ipr-config.loc/mapImageLayers.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/mapImageLayers.json",
                     "order": 1
                 },
                 {
                     "json_type": "Layers",
-                    "config": "https://mapa-ipr-config.loc/territConfig.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/territConfig.json",
                     "order": 2
                 }
             ]
@@ -54,7 +54,7 @@
             "groups": [
                 {
                     "json_type": "Layers",
-                    "config": "https://mapa-ipr-config.loc/bordersConfig.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/bordersConfig.json",
                     "order": 1
                 }
             ]
@@ -66,12 +66,12 @@
             "groups": [
                 {
                     "json_type": "Maps",
-                    "config": "https://mapa-ipr-config.loc/tilePackages.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/tilePackages.json",
                     "order": 1
                 },
                 {
                     "json_type": "Maps",
-                    "config": "https://mapa-ipr-config.loc/mobileMapPackages.json",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/mobileMapPackages.json",
                     "order": 2
                 }
             ]
