@@ -1,29 +1,80 @@
 {
-    "categories": [        
+    "categories": [
         {
             "name": "Podkladové mapy",
-            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/basemapsConfig.json",
-            "category_type":0
+            "location": "online",
+            "order": 1,
+            "groups": [
+                {
+                    "json_type": "Maps",
+                    "config": "https://mapa-ipr-config.loc/basemapsConfig.json",
+                    "order": 1
+                }
+            ]
         },
         {
             "name": "Cenová mapa",
-            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/priceConfig.json",
-            "category_type":1
+            "location": "online",
+            "order": 2,
+            "groups": [
+                {
+                    "json_type": "Layers",
+                    "config": "https://mapa-ipr-config.loc/priceConfig.json",
+                    "order": 2
+                }
+            ]
         },
         {
             "name": "Metropolitní plán",
-            "config": "",
-            "category_type":2
+            "location": "online",
+            "order": 3,
+            "groups": []
         },
         {
             "name": "Územní plán",
-            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/territConfig.json",
-            "category_type":3
+            "location": "online",
+            "order": 4,
+            "groups": [
+                {
+                    "json_type": "Maps",
+                    "config": "https://mapa-ipr-config.loc/mapImageLayers.json",
+                    "order": 1
+                },
+                {
+                    "json_type": "Layers",
+                    "config": "https://mapa-ipr-config.loc/territConfig.json",
+                    "order": 2
+                }
+            ]
         },
         {
             "name": "Hranice",
-            "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/main/bordersConfig.json",
-            "category_type":4
+            "location": "online",
+            "order": 5,
+            "groups": [
+                {
+                    "json_type": "Layers",
+                    "config": "https://mapa-ipr-config.loc/bordersConfig.json",
+                    "order": 1
+                }
+            ]
+        },
+        {
+            "name": "Územní plán",
+            "location": "offline",
+            "order": 6,
+            "groups": [
+                {
+                    "json_type": "Maps",
+                    "config": "https://mapa-ipr-config.loc/tilePackages.json",
+                    "order": 1
+                },
+                {
+                    "json_type": "Maps",
+                    "config": "https://mapa-ipr-config.loc/mobileMapPackages.json",
+                    "order": 2
+                }
+            ]
         }
     ]
 }

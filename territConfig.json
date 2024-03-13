@@ -1,16 +1,47 @@
 {
+    "name": "Vrstvy",
+    "type": "FeatureLayer",
+    "select_type": "multi",
+    "location": "online",
     "layers": [
         {
             "id": "c0b29e077a994eecaac411c7005d4ae6",
-            "sublayers": [ 0, 1, 2, 3, 4, 5 ]
+            "name": "Změny a úpravy ÚP Prahy",
+            "legend": "",
+            "sublayers": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
         },
         {
             "id": "67dc582d1d204eb98fcce452232fc821",
-            "sublayers": [ 0, 1, 2, 3, 4, 5, 6, 7]
+            "name": "Vrstvy funkčního využití území",
+            "legend": "",
+            "sublayers": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
         },
         {
             "id": "37cf0debeb214e84ae9fcc5b25cbf8c2",
-            "sublayers": [0, 1, 2, 3]
+            "name": "Adresy, parcely, uliční úseky",
+            "legend": "",
+            "sublayers": [
+                0,
+                1,
+                2,
+                3
+            ]
         }
     ]
 }

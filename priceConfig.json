@@ -1,8 +1,16 @@
 {
+    "name": "",
+    "type": "FeatureLayer",
+    "select_type": "multi",
+    "location": "online",
     "layers": [
         {
             "id": "185c6a37c359414aaaef6424a7283a7d",
-            "sublayers": [ 0 ]
+            "name": "Cenová mapa",
+            "legend": "",
+            "sublayers": [
+                0
+            ]
         }
     ]
 }

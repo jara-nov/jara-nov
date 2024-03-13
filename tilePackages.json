@@ -1,0 +1,68 @@
+{
+    "name": "Výkresy",
+    "type": "Tile Package",
+    "select_type": "multi",
+    "location": "offline",
+    "layers": [
+        {
+            "id": "724d7d96627f47fba99b3da9f14b9451",
+            "legend": "ef7932a02362449489a582309fdf3004",
+            "name": "PUP_V37"
+        },
+        {
+            "id": "eaece8d17fe54c13bf62b8e4439da14b",
+            "legend": "5e99e81dad544063a7b46710d9c741bc",
+            "name": "PUP_V36"
+        },
+        {
+            "id": "ca8a7c2c5d4a4178ad7c6e114abca652",
+            "legend": "8d5322acd685453799537cd5748490eb",
+            "name": "PUP_V33"
+        },
+        {
+            "id": "0c6df8907a0540fc8bf93d20aa9294fe",
+            "legend": "a23880c646df4519812c311b039b5729",
+            "name": "PUP_V31"
+        },
+        {
+            "id": "9f586c22e05644ea96e461c37e03c201",
+            "legend": "037b544ae46c40099fae1f875f14dcf6",
+            "name": "PUP_V25"
+        },
+        {
+            "id": "710711d6144347688ec95a99999df814",
+            "legend": "9adf5f2f2d8847639e35cd14f91064c8",
+            "name": "PUP_V20"
+        },
+        {
+            "id": "e7f654c7493e46498d9e8f230d3d2494",
+            "legend": "ae5c1a3fc0b24d84aa42aa5bd2f3ee5a",
+            "name": "PUP_V19"
+        },
+        {
+            "id": "f27f74aa38bc49c6a6f3c997cdea0b53",
+            "legend": "57cb8cf7716e4c0aa5bb4fdd9e32c2cd",
+            "name": "PUP_V11"
+        },
+        {
+            "id": "80d77fb21dd04e59a081f2f7913f367e",
+            "legend": "41459afa75624584af9111e881a1f966",
+            "name": "PUP_V10"
+        },
+        {
+            "id": "861fe0e961bf49638707f3b396d9e807",
+            "legend": "8ea1f13c4f144d839af980ebc6b49783",
+            "name": "PUP_V09"
+        },
+        {
+            "id": "8f930402cf6b4fbfb1b5b4daf33a5d9f",
+            "legend": "f7990f06b2a04f72b4db84b3942e6ee1",
+            "name": "PUP_V05"
+        },
+        {
+            "id": "9c893f10266e4bc8b37132135bed43d6",
+            "legend": "2a6bd889489b4741a0061fa61172c75d",
+            "name": "PUP_V04"
+        }
+    ]
+}

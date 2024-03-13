@@ -1,0 +1,33 @@
+{
+    "name": "Vektory",
+    "type": "Mobile Map Package",
+    "select_type": "single",
+    "location": "offline",
+    "layers": [
+        {
+            "id": "a3072875661b4a3ca7e845605de36604",
+            "name": "up_fvu_vps_vru",
+            "legend": ""
+        },
+        {
+            "id": "59f58cbad3e44221bed207e04db82271",
+            "name": "up_zmenyupravy_nodq",
+            "legend": ""
+        },
+        {
+            "id": "c377d09113374e95a61732abf25b3329",
+            "name": "Hranice",
+            "legend": ""
+        },
+        {
+            "id": "5cc0f50d28c84e0c81a30fdfe48dbe3e",
+            "name": "Cenová mapa",
+            "legend": ""
+        },
+        {
+            "id": "63bc7cd0793e49c0813868948a84fe72",
+            "name": "adresy_parcely_uu",
+            "legend": ""
+        }
+    ]
+}
