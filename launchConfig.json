@@ -44,6 +44,11 @@
                     "json_type": "Layers",
                     "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/territConfig.json",
                     "order": 2
+                },
+                {
+                    "json_type": "Maps",
+                    "config": "https://raw.githubusercontent.com/jara-nov/jara-nov/2024-03-test/imageryLayers.json",
+                    "order": 3
                 }
             ]
         },

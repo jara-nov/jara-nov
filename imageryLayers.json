@@ -1,0 +1,13 @@
+{
+    "name": "Snímky",
+    "type": "Imagery Layer",
+    "select_type": "multi",
+    "location": "online",
+    "layers": [
+        {
+            "id": "5d20e15873f443de97989be8efa534c7",
+            "name": "Ortofotomapa",
+            "legend": ""
+        }
+    ]
+}
