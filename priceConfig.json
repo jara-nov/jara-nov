@@ -1,6 +1,6 @@
 {
     "name": "",
-    "type": "FeatureLayer",
+    "type": "Feature Layer",
     "select_type": "multi",
     "location": "online",
     "layers": [

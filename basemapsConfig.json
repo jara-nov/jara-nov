@@ -1,22 +1,27 @@
 {
     "name": "",
-    "type": "BaseMap",
+    "type": "Base Map",
     "select_type": "single",
     "location": "online",
     "layers": [
         {
-            "id": "f57adcc0bfff44a996cc38898f9e048f",
+            "id": "4c97edeef0cc4578812d081f4180ef61",
             "name": "Základní mapa",
             "legend": ""
         },
         {
-            "id": "59b6251406824446a3862884cc838936",
+            "id": "3e65ddfc853c4e3ab0efc51c15632522",
             "name": "Základní mapa černobílá",
             "legend": ""
         },
         {
-            "id": "a12caba7accb4d6288832ae7d5414f7f",
+            "id": "5d20e15873f443de97989be8efa534c7",
             "name": "Letecká mapa",
+            "legend": ""
+        },
+        {
+            "id": "0",
+            "name": "Žádná",
             "legend": ""
         }
     ]
