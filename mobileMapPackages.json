@@ -1,7 +1,7 @@
 {
     "name": "Vektory",
     "type": "Mobile Map Package",
-    "select_type": "single",
+    "select_type": "multi",
     "location": "offline",
     "layers": [
         {

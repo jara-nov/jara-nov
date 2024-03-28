@@ -60,9 +60,21 @@
             ]
         },
         {
+            "name": "Podkladové mapy",
+            "location": "offline",
+            "order": 1,
+            "groups": [
+                {
+                    "json_type": "Maps",
+                    "config": "basemapsConfig.json",
+                    "order": 1
+                }
+            ]
+        },
+        {
             "name": "Územní plán (Packages)",
             "location": "offline",
-            "order": 6,
+            "order": 2,
             "groups": [
                 {
                     "json_type": "Maps",
@@ -79,7 +91,7 @@
         {
             "name": "Hranice",
             "location": "offline",
-            "order": 5,
+            "order": 3,
             "groups": [
                 {
                     "json_type": "Layers",
@@ -108,24 +120,12 @@
         {
             "name": "Cenová mapa",
             "location": "offline",
-            "order": 2,
+            "order": 5,
             "groups": [
                 {
                     "json_type": "Layers",
                     "config": "priceConfig.json",
                     "order": 2
-                }
-            ]
-        },
-        {
-            "name": "Podkladové mapy",
-            "location": "offline",
-            "order": 1,
-            "groups": [
-                {
-                    "json_type": "Maps",
-                    "config": "basemapsConfig.json",
-                    "order": 1
                 }
             ]
         }
