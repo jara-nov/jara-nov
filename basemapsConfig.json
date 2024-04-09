@@ -1,15 +1,15 @@
 {
     "layers": [
         {
-            "id": "4c97edeef0cc4578812d081f4180ef61",
+            "id": "f57adcc0bfff44a996cc38898f9e048f",
             "name": "Základní mapa"
         },
         {
-            "id": "3e65ddfc853c4e3ab0efc51c15632522",
+            "id": "59b6251406824446a3862884cc838936",
             "name": "Základní mapa černobílá"
         },
         {
-            "id": "5d20e15873f443de97989be8efa534c7",
+            "id": "59b6251406824446a3862884cc838936",
             "name": "Letecká mapa"
         }
     ]
