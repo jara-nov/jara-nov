@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "select_type": "single",
+    "location": "offline",
+    "layers": [
+        {
+            "id": "c627130ba7a0410183306d70226c8fc1",
+            "name": "Letecká mapa",
+            "legend": ""
+        }
+    ]
+}

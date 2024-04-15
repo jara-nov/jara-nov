@@ -1,6 +1,5 @@
 {
     "name": "Výkresy",
-    "type": "Map Image Layer",
     "select_type": "multi",
     "location": "online",
     "layers": [
