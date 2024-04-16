@@ -37,13 +37,18 @@
             "groups": [
                 {
                     "json_type": "Maps",
-                    "config": "mapImageLayers.json",
+                    "config": "landUsePlan.json",
                     "order": 1
                 },
                 {
-                    "json_type": "Layers",
-                    "config": "territConfig.json",
+                    "json_type": "Maps",
+                    "config": "landUsePlanOld.json",
                     "order": 2
+                },
+                {
+                    "json_type": "Layers",
+                    "config": "landUseLayers.json",
+                    "order": 3
                 }
             ]
         },
@@ -106,14 +111,9 @@
             "order": 4,
             "groups": [
                 {
-                    "json_type": "Maps",
-                    "config": "mapImageLayers.json",
-                    "order": 1
-                },
-                {
                     "json_type": "Layers",
                     "config": "territConfig.json",
-                    "order": 2
+                    "order": 1
                 }
             ]
         },
