@@ -5,22 +5,20 @@
     "layers": [
         {
             "id": "4c97edeef0cc4578812d081f4180ef61",
+            "type": "Tile Layer",
             "name": "Základní mapa",
             "legend": ""
         },
         {
             "id": "3e65ddfc853c4e3ab0efc51c15632522",
+            "type": "Tile Layer",
             "name": "Základní mapa černobílá",
             "legend": ""
         },
         {
             "id": "5d20e15873f443de97989be8efa534c7",
+            "type": "Imagery Layer",
             "name": "Letecká mapa",
-            "legend": ""
-        },
-        {
-            "id": "0",
-            "name": "Žádná",
             "legend": ""
         }
     ]

@@ -5,8 +5,10 @@
     "layers": [
         {
             "id": "6b94720b3bb74ae1bd58ca877949cd9e",
+            "type": "Feature Layer",
             "name": "hranice: Praha, městské části, katastry",
             "legend": "",
+            "sublayer": null,
             "sublayers": [
                 0,
                 1,

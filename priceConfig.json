@@ -5,8 +5,10 @@
     "layers": [
         {
             "id": "185c6a37c359414aaaef6424a7283a7d",
+            "type": "Feature Layer",
             "name": "Cenová mapa",
             "legend": "",
+            "sublayer": null,
             "sublayers": [
                 0
             ]

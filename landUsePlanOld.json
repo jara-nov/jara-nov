@@ -5,8 +5,11 @@
     "layers": [
         {
             "id": "5f5a09a8f5544e75b0fa7a8fe500d43c",
-            "name": "",
-            "legend": ""
+            "type": "Map Image Layer",
+            "name": "Územní plán - neaktualizovaný",
+            "legend": "",
+            "sublayer": 0,
+            "sublayers": []
         }
     ]
 }

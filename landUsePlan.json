@@ -5,8 +5,35 @@
     "layers": [
         {
             "id": "50cae0dbf715438aaf5ec8ec55644d75",
-            "name": "",
-            "legend": ""
+            "type": "Map Image Layer",
+            "name": "Výkres č. 4 - Plán využití ploch",
+            "legend": "2a6bd889489b4741a0061fa61172c75d",
+            "sublayer": 0,
+            "sublayers": []
+        },
+        {
+            "id": "50cae0dbf715438aaf5ec8ec55644d75",
+            "type": "Map Image Layer",
+            "name": "Výkres č. 5 - Doprava",
+            "legend": "f7990f06b2a04f72b4db84b3942e6ee1",
+            "sublayer": 1,
+            "sublayers": []
+        },
+        {
+            "id": "50cae0dbf715438aaf5ec8ec55644d75",
+            "type": "Map Image Layer",
+            "name": "Výkres č. 9 - Vodní hospodářství a odpady",
+            "legend": "8ea1f13c4f144d839af980ebc6b49783",
+            "sublayer": 2,
+            "sublayers": []
+        },
+        {
+            "id": "50cae0dbf715438aaf5ec8ec55644d75",
+            "type": "Map Image Layer",
+            "name": "Výkres č. 10 - Energetika",
+            "legend": "41459afa75624584af9111e881a1f966",
+            "sublayer": 3,
+            "sublayers": []
         }
     ]
 }

@@ -5,7 +5,14 @@
     "layers": [
         {
             "id": "c627130ba7a0410183306d70226c8fc1",
+            "type": "Tile Package",
             "name": "Letecká mapa",
+            "legend": ""
+        },
+        {
+            "id": "6f9ef5b7fe674ff893b230c6b402d2df",
+            "type": "Vector Tile Package",
+            "name": "Základní mapa",
             "legend": ""
         }
     ]

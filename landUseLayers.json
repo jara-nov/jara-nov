@@ -5,8 +5,10 @@
     "layers": [
         {
             "id": "c0b29e077a994eecaac411c7005d4ae6",
+            "type": "Feature Layer",
             "name": "Změny a úpravy ÚP Prahy",
             "legend": "",
+            "sublayer": null,
             "sublayers": [
                 0,
                 1,
@@ -18,8 +20,10 @@
         },
         {
             "id": "67dc582d1d204eb98fcce452232fc821",
+            "type": "Feature Layer",
             "name": "Vrstvy funkčního využití území",
             "legend": "",
+            "sublayer": null,
             "sublayers": [
                 0,
                 1,
@@ -33,8 +37,10 @@
         },
         {
             "id": "37cf0debeb214e84ae9fcc5b25cbf8c2",
+            "type": "Feature Layer",
             "name": "Adresy, parcely, uliční úseky",
             "legend": "",
+            "sublayer": null,
             "sublayers": [
                 0,
                 1,
